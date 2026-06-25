@@ -10,9 +10,7 @@
 - [Machine Learning]
 
 ## Current Projects
-- [Introduction to AI concepts](link) — short description
+- [Introduction to AI concepts]
 
 ## How to Reach Me
 - Email: [marygithumgi16@gmail.com]
-- LinkedIn: [your LinkedIn profile link]
-Add my profile README
