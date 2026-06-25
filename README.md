@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm [Mary Wanja]
 
-<!--
-**marywanja16/marywanja16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning [Artificial Intelligence].
+- I'm interested in [Coding].
+- I'm looking to collaborate on [AI Projects].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- [Machine Learning]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Introduction to AI concepts](link) — short description
+
+## How to Reach Me
+- Email: [marygithumgi16@gmail.com]
+- LinkedIn: [your LinkedIn profile link]
+Add my profile README
